@@ -18,7 +18,7 @@ Use Tensorflow to create a model to predict the species of Iris from a flower’
 
 Split the data set into a training set and a testing set. 
 
-<h4>3. Train the model<h4>
+<h4>3. Train the model</h4>
 
 Use the testing set to train the model.
 
